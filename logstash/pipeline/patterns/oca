@@ -1,0 +1,2 @@
+OCATIME %{DAY} %{MONTH}%{SPACE}(?:[0-9]{1,2}) %{TIME}
+
